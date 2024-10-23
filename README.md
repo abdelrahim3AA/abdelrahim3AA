@@ -29,7 +29,7 @@ I’m a **fourth-year Computer Science student** with a deep interest in **Backe
 [![Introduction to MongoDB](https://img.shields.io/badge/-Introduction%20to%20MongoDB%20from%20ITI-2496ED?style=flat-square&logo=mongodb&logoColor=white)](https://drive.google.com/file/d/1Ys76Se3_XHSx_7ISjKpI8yRw6fBFuAE7/view?usp=drive_link)
 
 ## 📂 Resume
-[![Resume](https://img.shields.io/badge/-Resume-000000?style=flat-square&logo=resume&logoColor=white)](https://drive.google.com/file/d/1SA4MZVD-tGwYjI7XdOB3Oc-YyyVZMZWI/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/-Resume-000000?style=flat-square&logo=resume&logoColor=white)](https://drive.google.com/file/d/1F2q9VqacDDdg6osV2vgJYXDKw5cEzTZy/view?usp=sharing)
 
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahim-abuelmaaref-7962052b4/)
